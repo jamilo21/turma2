@@ -1,9 +1,22 @@
-h1 {color: red;
-text-align: center;
-font-size: 35px;}
+    body {
+    background-color: rgb(225, 212, 60);
+}
+    h1 {
+    color: red;
+    text-align: center;
+    font-size: 35px;
+    background-color: black;
+}
 
-body{background-color: darkgray;}
+    h2 {
+    color: rgb(190, 124, 101);
+    background-color: black;
+    text-align: center;
 
-p {text-align: justify;
-color: blue;
-font-size: 20px;}
+}
+
+    p {
+    text-align: center;
+    color: black;
+    font-size: 25px;
+}
