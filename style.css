@@ -1,22 +1,62 @@
     body {
-    background-color: rgb(225, 212, 60);
-}
+        background-color: rgb(225, 212, 60);
+    }
+
     h1 {
-    color: red;
-    text-align: center;
-    font-size: 35px;
-    background-color: black;
-}
+        color: red;
+        text-align: center;
+        font-size: 35px;
+        background-color: black;
+    }
 
     h2 {
-    color: rgb(190, 124, 101);
-    background-color: black;
-    text-align: center;
+        color: rgb(190, 124, 101);
+        background-color: black;
+        text-align: center;
 
-}
+    }
 
     p {
-    text-align: center;
-    color: black;
-    font-size: 25px;
-}
+        text-align: center;
+        color: black;
+        font-size: 25px;
+    }
+
+    img {
+        width: 200px;
+    }
+
+    .h1-principal {
+        color: blue;
+        padding-top: 50px;
+        padding-block: 50px;
+
+    }
+
+    .h1-pagina-dedicada {
+        color: orangered;
+    }
+
+    #identidade {
+        color: white
+    }
+
+    .principal {
+        width: 200px;
+        padding-top: 100px;
+        padding-bottom: 100px;
+
+    }
+
+    .conteudo {
+        background-color: blueviolet;
+        border: 10px solid white;
+        margin-top: 100px;
+    }
+
+    .h1-principal {padding-top: 100px;
+    padding-bottom: 100px;}
+
+    .lista { background-color: chartreuse;
+        display: inline-block;}
+      
